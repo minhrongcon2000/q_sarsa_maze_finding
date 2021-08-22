@@ -12,5 +12,5 @@ For SARSA and Q-Learning, the algorithm is setup to become GLIE and step-size (o
 - [numpy](https://github.com/numpy/numpy)
 
 ## Results
-For Q-Learning: https://youtu.be/KPwNsHukWtc
-For SARSA: https://youtu.be/oruyR6-R0OM
+- For Q-Learning: https://youtu.be/KPwNsHukWtc
+- For SARSA: https://youtu.be/oruyR6-R0OM
